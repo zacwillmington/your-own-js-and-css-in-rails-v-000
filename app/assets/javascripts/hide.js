@@ -1,4 +1,4 @@
 function hideWhenClicked() {
     debugger;
-    $('#hide_this').addClass('.hidden');
+    $('#hide_this').addClass('hidden');
 }
